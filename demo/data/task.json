@@ -1,0 +1,38 @@
+[
+  {
+    "createdAt": "2024-08-11T10:30:00",
+    "description": "hola",
+    "updateAt": "2025-02-02 21:45:41",
+    "id": 1,
+    "status": "done",
+    "updatedAt": ""
+  },
+  {
+    "createdAt": "2024-08-11T10:30:00",
+    "description": "Hacer los pendientes de la casa",
+    "id": 2,
+    "status": "todo",
+    "updatedAt": ""
+  },
+  {
+    "createdAt": "2024-08-11T10:30:00",
+    "description": "Ir a bañarme",
+    "id": 3,
+    "status": "done",
+    "updatedAt": ""
+  },
+  {
+    "createdAt": "2025-01-30T00:54:56.098087800",
+    "description": "trabajo",
+    "id": 4,
+    "status": "todo",
+    "updatedAt": ""
+  },
+  {
+    "createdAt": "2025-02-02T16:42:40.653107400",
+    "description": "p",
+    "id": 5,
+    "status": "todo",
+    "updatedAt": ""
+  }
+]
